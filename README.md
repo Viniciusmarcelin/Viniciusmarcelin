@@ -2,7 +2,7 @@
 
 **`QA Enginner`**
 
-Me chamo Vinicius Marcelino Carvalho , tenho 20 anos e sou natural de Rondonia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn.
+Me chamo Vinicius Marcelino Carvalho , tenho 20 anos e sou natural de Rondonia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn. Estou estudando para ser um QA Enginner e me tornar um profissional na area!🫡
 <p>
     <a>
     </a>
